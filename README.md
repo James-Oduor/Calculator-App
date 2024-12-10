@@ -1,5 +1,5 @@
 # Calculator-App
-The code provided creates a simple calculator application using HTML, CSS, and JavaScript. Created for an ease in doing calculations such as division, addition and etc
+The code provided creates a simple calculator application using HTML, CSS, and JavaScript. Created for an ease in doing calculations such as division, addition and etc.this project demonstrates the basics of creating a functional and styled calculator for performing basic arithmetic operations.
 
 ![image](https://github.com/user-attachments/assets/adf44259-94bc-496c-b82b-a52e2509291b)
 
