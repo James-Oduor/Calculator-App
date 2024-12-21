@@ -1,6 +1,6 @@
 # Calculator-App
 The code provided creates a simple calculator application using HTML, CSS, and JavaScript. Created for an ease in doing calculations such as division, addition and etc.this project demonstrates the basics of creating a functional and styled calculator for performing basic arithmetic operations.
-
+this is the hyperlink for this project https://calculator-app-project-work.netlify.app/
 ![image](https://github.com/user-attachments/assets/adf44259-94bc-496c-b82b-a52e2509291b)
 
 
@@ -25,6 +25,5 @@ You can use the calculator by opening the `index.html` file in any modern web br
 
 ---
 
-## Installation and Setup
-1. Clone the repository or download the source files.
-2. Save the files in a folder with the following structure:
+## Installation **
+https://calculator-app-project-work.netlify.app/
